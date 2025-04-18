@@ -1,9 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="26.2.13">
-  <diagram name="第 1 页" id="OtciX9EST_gxZTKVZwVr">
-    <mxGraphModel>
+  <diagram name="Page-1" id="OtciX9EST_gxZTKVZwVr">
+    <mxGraphModel dx="1187" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="250" />
+              <mxPoint x="80" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-2" value="Mysql&lt;div&gt;数据库&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-5" target="fm8HpRVGFOAjmAnUw3pv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-5" target="fm8HpRVGFOAjmAnUw3pv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-5" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-6" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-8" target="fm8HpRVGFOAjmAnUw3pv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-8" value="现场施工" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-10" target="fm8HpRVGFOAjmAnUw3pv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;数据处理及可视化界面&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;缺失值、异常值&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-12" target="fm8HpRVGFOAjmAnUw3pv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-12" value="生产井分类界面" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="160" height="104" as="geometry">
+            <mxRectangle x="10" y="350" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-13" value="+ 产油特征分析" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fm8HpRVGFOAjmAnUw3pv-12">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-14" value="+ 产水特征分析" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fm8HpRVGFOAjmAnUw3pv-12">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-15" value="+ 动态因素分析" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="fm8HpRVGFOAjmAnUw3pv-12">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-17" target="fm8HpRVGFOAjmAnUw3pv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-17" value="利用算法分成&lt;div&gt;三到四类&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;fontStyle=0;startSize=26;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="362" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-19" target="fm8HpRVGFOAjmAnUw3pv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;产能影响因素分析&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fm8HpRVGFOAjmAnUw3pv-21" target="fm8HpRVGFOAjmAnUw3pv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;产量递减分析及EUR预测&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Arps模型拟合&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;自动识别递减类型（指数/双 曲/调和），拟合历史产量数据，预测未来趋势。&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;EUR预测（LSTM模型）&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;输入时序数据（压力、产量、含水率），预测长期递减曲线，捕捉周期性波动。&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="50" width="205" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8HpRVGFOAjmAnUw3pv-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;压裂参数优化&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;GBDT-PSO联合优化：&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;训练GBDT模型预测压裂参数（液量、砂量、段间距）与EUR的关系。&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;粒子群优化（PSO）搜索帕累托最优解集，平衡产量最大化与成本最小化。&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="413" y="50" width="177" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
