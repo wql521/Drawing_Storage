@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
   <diagram name="第 1 页" id="YXLsesLFUXVBG4lH7oYc">
-    <mxGraphModel dx="5616" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="1" shadow="0">
+    <mxGraphModel dx="11282" dy="2765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,6 +166,205 @@
               <mxPoint x="-2050" y="645" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f4f8fb;strokeColor=#d1e0ec;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="920" width="480" x="-2610" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#f2fcf9;strokeColor=#cbeadd;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="920" width="480" x="-2100" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#fffbf2;strokeColor=#f5e2c6;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="920" width="480" x="-1590" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#fcf8ff;strokeColor=#e5d5f2;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="920" width="530" x="-1080" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#2563eb;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=18;shadow=1;" value="01 数据基础与先验构建" vertex="1">
+          <mxGeometry height="50" width="400" x="-2570" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#0d9488;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=18;shadow=1;" value="02 样本生成与物理正演" vertex="1">
+          <mxGeometry height="50" width="400" x="-2060" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#d97706;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=18;shadow=1;" value="03 条件扩散模型训练" vertex="1">
+          <mxGeometry height="50" width="400" x="-1550" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#7c3aed;strokeColor=none;fontColor=#ffffff;fontStyle=1;fontSize=18;shadow=1;" value="04 实井反演与后验解释" vertex="1">
+          <mxGeometry height="50" width="450" x="-1040" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#93c5fd;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#1e3a8a;&quot;&gt;赛题基础数据导入&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;地质背景 | 测井分层 | PVT | 相渗 | 试油试采 | 日生产动态&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2570" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#93c5fd;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#1e3a8a;&quot;&gt;统一数据治理与质量控制&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;字段清洗 | 单位统一 | 异常值剔除 | 时间序列对齐&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2570" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#93c5fd;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#1e3a8a;&quot;&gt;SY9双气层几何边界设定&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;Layer1: 4548.585 — 4564.893 m&lt;br&gt;Layer2: 4573.375 — 4607.875 m&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2570" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#93c5fd;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#1e3a8a;&quot;&gt;层别先验参数反标&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;孔隙度均值与标准差 | 孔渗关系拟合 | 解释层等效渗透率&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2570" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#dbeafe;strokeColor=#3b82f6;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(30, 58, 138);&quot;&gt;双通道先验渗透率场构建&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;生成 Layer1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;amp; Layer2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2570" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#5eead4;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#115e59;&quot;&gt;先验样本库随机构建&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;基于随机种子扰动: 非均质强度 × 变程 × 各向异性 × 层间连通&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2060" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#5eead4;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#115e59;&quot;&gt;COMSOL 前向流动模拟正演&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;加载空间场 (K, φ, 厚度) + 流体模型 (PVT, 相渗) + 生产制度&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2060" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ccfbf1;strokeColor=#14b8a6;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(17, 94, 89);&quot;&gt;正演动态响应曲线生成&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;日产气量 | 日产水量 | 油压 | 累产气量&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2060" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ccfbf1;strokeColor=#14b8a6;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(17, 94, 89);&quot;&gt;样本标签映射与匹配&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;计算目标残差场:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-2060" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e2e8f0;strokeColor=none;fontColor=#334155;fontSize=13;fontStyle=1;" value="✅ 构建训练集：{ 动态响应序列 , 目标残差场 R }" vertex="1">
+          <mxGeometry height="40" width="350" x="-2035" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#fcd34d;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#92400e;&quot;&gt;动态条件编码器 (Condition Encoder)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;采用 1D CNN / Transformer 对四条时间序列进行特征抽取&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-1550" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#fcd34d;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(146, 64, 14);&quot;&gt;条件扩散网络核心 (U-Net)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;空间输入：Layer1 &amp;amp; Layer2 的&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;特征注入机制：FiLM / 交叉注意力机制 / 通道级拼接&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-1550" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#fcd34d;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#92400e;&quot;&gt;模型优化与约束迭代&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;目标函数：最小化噪声预测损失 + 物理动态一致性正则化&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-1550" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#fef3c7;strokeColor=#f59e0b;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#92400e;&quot;&gt;扩散模型训练完成&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;固化网络权重，获取可用于 SY9 井实地推理的反演模型&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="-1550" y="2620" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e2e8f0;strokeColor=none;fontColor=#334155;fontSize=13;fontStyle=1;" value="🔥 产出：已训练的条件扩散模型 + 特征编码器" vertex="1">
+          <mxGeometry height="40" width="350" x="-1525" y="2730" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#d8b4fe;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(76, 29, 149);&quot;&gt;SY9 实井动态观测数据输入&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;日产气量 | 日产水量 | 油压 | 累产气量&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="450" x="-1040" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#d8b4fe;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#4c1d95;&quot;&gt;真实条件向量化&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;调用已训练的动态编码器，将真实时间序列转化为条件向量&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="450" x="-1040" y="2150" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#f3e8ff;strokeColor=#a855f7;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(76, 29, 149);&quot;&gt;扩散采样与推理求解&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(71, 85, 105), rgb(155, 167, 184)); font-size: 13px; background-color: transparent;&quot;&gt;输入先验双通道&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(71, 85, 105), rgb(155, 167, 184)); font-size: 13px;&quot;&gt;+ 真实条件向量，迭代生成后验残差样本&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="450" x="-1040" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#f3e8ff;strokeColor=#a855f7;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(76, 29, 149);&quot;&gt;后验渗透率场恢复&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;还原绝对场:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(得到最终 Layer1/Layer2)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="450" x="-1040" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#ffffff;strokeColor=#d8b4fe;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size: 16px; color: rgb(76, 29, 149);&quot;&gt;动态历史拟合一致性验证&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; color: rgb(71, 85, 105);&quot;&gt;对比反演模型输出的生产动态与实际测试的动态生产数据拟合度&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="450" x="-1040" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#f3e8ff;strokeColor=#a855f7;strokeWidth=2;shadow=1;" value="&lt;b style=&quot;font-size:16px; color:#4c1d95;&quot;&gt;不确定性量化与工程决策解释&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:13px; color:#475569;&quot;&gt;识别高导流连接区 | 输出后验均值与方差图 | 为增产措施提供依据&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="450" x="-1040" y="2620" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-33" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-34" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-35" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-36" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-37" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#3b82f6;strokeWidth=3;endArrow=block;endFill=1;entryX=0;entryY=0.5;" target="Sx7NBnHvTseSgv1LUIBb-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2130" y="2550" />
+              <mxPoint x="-2130" y="2070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-38" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-39" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-40" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-41" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#14b8a6;strokeWidth=3;endArrow=block;endFill=1;entryX=0;entryY=0.5;" target="Sx7NBnHvTseSgv1LUIBb-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-42" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#14b8a6;strokeWidth=3;endArrow=block;endFill=1;entryX=0;entryY=0.5;" target="Sx7NBnHvTseSgv1LUIBb-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1620" y="2430" />
+              <mxPoint x="-1620" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-43" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-44" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-45" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-46" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-47" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-48" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-49" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-50" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#94a3b8;strokeWidth=2;endArrow=block;endFill=1;" target="Sx7NBnHvTseSgv1LUIBb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-51" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#ef4444;strokeWidth=3;dashed=1;dashPattern=4 4;endArrow=block;endFill=1;entryX=0;entryY=0.25;" target="Sx7NBnHvTseSgv1LUIBb-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1120" y="2660" />
+              <mxPoint x="-1120" y="2290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-52" connectable="0" parent="Sx7NBnHvTseSgv1LUIBb-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#2563eb;labelBackgroundColor=#ffffff;" value="空间先验输入" vertex="1">
+          <mxGeometry relative="1" x="-0.85" as="geometry">
+            <mxPoint x="10" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-53" edge="1" parent="1" source="Sx7NBnHvTseSgv1LUIBb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#3b82f6;strokeWidth=3;dashed=1;dashPattern=4 4;endArrow=block;endFill=1;entryX=0;entryY=0.75;" target="Sx7NBnHvTseSgv1LUIBb-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2370" y="2860" />
+              <mxPoint x="-1100" y="2860" />
+              <mxPoint x="-1100" y="2330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-54" connectable="0" parent="Sx7NBnHvTseSgv1LUIBb-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#ef4444;labelBackgroundColor=#ffffff;" value="模型部署调用" vertex="1">
+          <mxGeometry relative="1" x="0.8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#e2e8f0;strokeColor=none;fontColor=#334155;fontSize=13;fontStyle=1;" value="✅ 输出：用于后续生成的先验渗透率场空间底图" vertex="1">
+          <mxGeometry height="40" width="350" x="-2545" y="2620" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-55" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$logK_{prior}$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="-2425" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-56" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$logK_{prior}$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="-2311" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-57" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$R = logK_{post} − logK_{prior}$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="-1877" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-60" parent="1" style="text;whiteSpace=wrap;html=1;strokeWidth=0;fontSize=11;" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$logK_{prior}$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="-1288" y="2415" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-65" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$logK_{prior}$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="-916" y="2299" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx7NBnHvTseSgv1LUIBb-66" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$logK_{post} = logK_{prior} + R$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="-940" y="2420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
