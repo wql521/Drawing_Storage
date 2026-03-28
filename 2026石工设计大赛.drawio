@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
   <diagram name="第 1 页" id="YXLsesLFUXVBG4lH7oYc">
-    <mxGraphModel dx="7393" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="1" shadow="0">
+    <mxGraphModel dx="5616" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3937" pageHeight="3937" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,57 +73,57 @@
           <mxGeometry height="30" width="80" x="284" y="320" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-210" parent="1" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#cccccc;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
-          <mxGeometry height="480" width="240" x="-3120" y="120" as="geometry" />
+          <mxGeometry height="480" width="240" x="-2590" y="260" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-211" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 14px; color: #555;&quot;&gt;一、数据输入区 (Inputs)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="240" x="-3120" y="130" as="geometry" />
+          <mxGeometry height="30" width="240" x="-2590" y="270" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-212" parent="1" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#cccccc;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
-          <mxGeometry height="480" width="240" x="-2840" y="120" as="geometry" />
+          <mxGeometry height="480" width="240" x="-2310" y="260" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-213" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 14px; color: #555;&quot;&gt;二、核心生成区 (Core Diffusion)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="240" x="-2840" y="130" as="geometry" />
+          <mxGeometry height="30" width="240" x="-2310" y="270" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-214" parent="1" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#cccccc;strokeWidth=2;dashed=1;shadow=0;" value="" vertex="1">
-          <mxGeometry height="480" width="240" x="-2560" y="120" as="geometry" />
+          <mxGeometry height="480" width="240" x="-2030" y="260" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-215" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b style=&quot;font-size: 14px; color: #555;&quot;&gt;三、约束优化区 (Losses)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="240" x="-2560" y="130" as="geometry" />
+          <mxGeometry height="30" width="240" x="-2030" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="a6KsddZUwiBcWnPfPZHy-217" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;gradientColor=#d4c1dc;strokeColor=#9673a6;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;先验通道&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;对数先验渗透率场&lt;br&gt;先验孔隙度场&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-3090" y="180" as="geometry" />
+        <mxCell id="a6KsddZUwiBcWnPfPZHy-217" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;gradientColor=#d4c1dc;strokeColor=#9673a6;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;先验通道&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: rgb(68, 68, 68);&quot;&gt;对数先验渗透率场&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="-2560" y="320" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-218" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;gradientColor=#d4c1dc;strokeColor=#9673a6;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;井点与硬数据&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: rgb(68, 68, 68);&quot;&gt;井点位置&lt;br&gt;有效层位&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-3090" y="320" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2560" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="a6KsddZUwiBcWnPfPZHy-219" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;gradientColor=#d4c1dc;strokeColor=#9673a6;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;动态条件&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;时间序列产气量&lt;br&gt;时间序列产水量&lt;br&gt;时间序列压力数据&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="180" x="-3090" y="460" as="geometry" />
+        <mxCell id="a6KsddZUwiBcWnPfPZHy-219" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#e1d5e7;gradientColor=#d4c1dc;strokeColor=#9673a6;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b style=&quot;font-size: 15px; line-height: 100%;&quot;&gt;动态条件&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: rgb(68, 68, 68);&quot;&gt;时间序列产气量&lt;br&gt;时间序列产水量&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; color: rgb(68, 68, 68);&quot;&gt;时间序列压力数据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(68, 68, 68);&quot;&gt;时间序列累计产气量&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="-2560" y="600" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-220" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#c4dbf6;strokeColor=#6c8ebf;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;前向扩散噪声调度&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;生成模拟随机噪声图&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-2810" y="180" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2280" y="320" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-221" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#c4dbf6;strokeColor=#6c8ebf;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;条件去噪核心网络&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;融合动态与先验特征去噪&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-2810" y="320" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2280" y="460" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-222" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#c4dbf6;strokeColor=#6c8ebf;strokeWidth=2;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;后验残差学习&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;输出高精度后验修正场&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-2810" y="465" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2280" y="605" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-223" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffe599;strokeColor=#b85450;strokeWidth=2;dashed=1;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;扩散损失函数&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;优化模型逐步修正能力&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-2530" y="180" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2000" y="320" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-224" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffe599;strokeColor=#b85450;strokeWidth=2;dashed=1;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;井点与先验约束损失&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;确保符合静态场空间特征&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-2530" y="320" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2000" y="460" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-225" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffe599;strokeColor=#b85450;strokeWidth=2;dashed=1;shadow=1;fontColor=#333333;" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;动态与正则化损失&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; color: #444;&quot;&gt;优化动态拟合并防止过拟合&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="180" x="-2530" y="465" as="geometry" />
+          <mxGeometry height="80" width="180" x="-2000" y="605" as="geometry" />
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-226" edge="1" parent="1" source="a6KsddZUwiBcWnPfPZHy-217" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#666666;endArrow=block;endFill=1;" target="a6KsddZUwiBcWnPfPZHy-221" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2860" y="220" />
-              <mxPoint x="-2860" y="340" />
+              <mxPoint x="-2330" y="360" />
+              <mxPoint x="-2330" y="480" />
             </Array>
-            <mxPoint x="-2840" y="310" as="targetPoint" />
+            <mxPoint x="-2310" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-227" edge="1" parent="1" source="a6KsddZUwiBcWnPfPZHy-218" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#666666;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a6KsddZUwiBcWnPfPZHy-221" value="">
@@ -132,8 +132,8 @@
         <mxCell id="a6KsddZUwiBcWnPfPZHy-228" edge="1" parent="1" source="a6KsddZUwiBcWnPfPZHy-219" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#666666;endArrow=block;endFill=1;" target="a6KsddZUwiBcWnPfPZHy-221" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2860" y="505" />
-              <mxPoint x="-2860" y="380" />
+              <mxPoint x="-2330" y="645" />
+              <mxPoint x="-2330" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -146,24 +146,24 @@
         <mxCell id="a6KsddZUwiBcWnPfPZHy-231" edge="1" parent="1" source="a6KsddZUwiBcWnPfPZHy-221" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#b85450;dashed=1;endArrow=block;endFill=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a6KsddZUwiBcWnPfPZHy-223" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2580" y="340" />
-              <mxPoint x="-2580" y="220" />
+              <mxPoint x="-2050" y="480" />
+              <mxPoint x="-2050" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-232" edge="1" parent="1" source="a6KsddZUwiBcWnPfPZHy-222" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#b85450;dashed=1;endArrow=block;endFill=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a6KsddZUwiBcWnPfPZHy-224" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2580" y="485" />
-              <mxPoint x="-2580" y="360" />
+              <mxPoint x="-2050" y="625" />
+              <mxPoint x="-2050" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="a6KsddZUwiBcWnPfPZHy-233" edge="1" parent="1" source="a6KsddZUwiBcWnPfPZHy-222" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#b85450;dashed=1;endArrow=block;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a6KsddZUwiBcWnPfPZHy-225" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2580" y="525" />
-              <mxPoint x="-2580" y="505" />
+              <mxPoint x="-2050" y="665" />
+              <mxPoint x="-2050" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
